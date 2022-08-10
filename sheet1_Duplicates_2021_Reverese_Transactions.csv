@@ -1,0 +1,426 @@
+,Unnamed: 0,Account Number/Year/Product No,Source,Doc. Date,Description/Reference,Seq.,Batch-Entry,Debits,Credits,Net Change,Balance
+8,55034,1,CB-CB,2020-04-01,Reverse - Cashbook correction,47242,103080-1,0.03,0.0,0.0,0.0
+70,60140,12,CB-CB,2021-03-24,Reverse - Malik Kashe,47196,103011-1,9.49,0.0,0.0,0.0
+129,62092,10,CB-CB,2021-01-01,Reverse - Service fee,47588,103742-1,109.0,0.0,0.0,0.0
+132,62144,12,CB-CB,2021-03-01,Reverse - Service fee,47595,103750-1,113.0,0.0,0.0,0.0
+133,62119,11,CB-CB,2021-02-01,Reverse - Service fee,47596,103751-1,113.0,0.0,0.0,0.0
+170,60288,2,CB-CB,2020-05-14,Reverse - Unknown payment Bank 03 KZN,49398,106129-1,149.0,0.0,0.0,0.0
+171,60274,2,CB-CB,2020-05-29,Reverse - Thulani Bhengu,47720,103983-1,149.0,0.0,0.0,0.0
+180,55726,3,CB-CB,2020-06-22,Reverse - Malik Kashe,45233,99614-1,159.88,0.0,0.0,0.0
+183,62096,10,CB-CB,2021-01-14,Reverse - Bank charges,47590,103745-1,160.0,0.0,0.0,0.0
+221,55383,2,CB-CB,2020-05-14,Reverse - Kabelo Mello,45096,99371-1,214.8,0.0,0.0,0.0
+226,57385,6,CB-CB,2020-09-17,Reverse - Zuzumusa Ndwandwe,45505,100115-1,214.8,0.0,0.0,0.0
+254,55395,2,CB-CB,2020-05-18,Reverse - Payment 672449,46882,102437-1,277.7,0.0,0.0,0.0
+257,56169,4,CB-CB,2020-07-13,Reverse - Mokhele Machongoane,45327,99783-1,277.88,0.0,0.0,0.0
+276,55271,2,CB-CB,2020-05-04,Reverse - Payroll payment,45056,99320-1,300.0,0.0,0.0,0.0
+291,60138,12,CB-CB,2021-03-11,Reverse - DIKELEDI GABOUTLWELWE,47195,103009-1,333.6,0.0,0.0,0.0
+293,56806,5,CB-CB,2020-08-21,Reverse - Thabo Phakoe,45421,99962-1,344.8,0.0,0.0,0.0
+328,56874,5,CB-CB,2020-08-21,Reverse - Mokhele Machongoane,45455,100030-1,371.0,0.0,0.0,0.0
+343,56167,4,CB-CB,2020-07-13,Reverse - Mokhele Machongoane,45326,99781-1,391.7,0.0,0.0,0.0
+349,55301,2,CB-CB,2020-05-04,Reverse - Payroll payment,45071,99335-1,400.0,0.0,0.0,0.0
+357,56872,5,CB-CB,2020-08-07,Reverse - Brima Logistics (Pty)Ltd,45454,100028-1,404.8,0.0,0.0,0.0
+418,59001,9,CB-CB,2020-12-18,Reverse - Zinhle Mbanjwa,48378,105147-1,490.0,0.0,0.0,0.0
+426,55277,2,CB-CB,2020-05-04,Reverse - Payroll payment,45059,99323-1,500.0,0.0,0.0,0.0
+427,55299,2,CB-CB,2020-05-04,Reverse - Payroll payment,45070,99334-1,500.0,0.0,0.0,0.0
+429,55275,2,CB-CB,2020-05-04,Reverse - Payroll payment,45058,99322-1,500.0,0.0,0.0,0.0
+460,55012,1,CB-CB,2020-04-03,Reverse - Atlantis Corporate Travel,46514,101729-1,515.0,0.0,0.0,0.0
+467,62045,9,CB-CB,2020-12-15,Reverse - Rirhandzu Chuma,46017,101072-1,516.7,0.0,0.0,0.0
+473,57903,7,CB-CB,2020-10-13,Reverse - Ofentse Kutumela,45725,100523-1,523.9,0.0,0.0,0.0
+496,56870,5,CB-CB,2020-08-21,Reverse - Matshego Melesi,45453,100026-1,559.3000000000001,0.0,0.0,0.0
+510,56171,4,CB-CB,2020-07-13,Reverse - Thulani Bhengu,45328,99785-1,600.94,0.0,0.0,0.0
+513,56165,4,CB-CB,2020-07-13,Reverse - Zuzumusa Ndwandwe,45325,99779-1,612.6,0.0,0.0,0.0
+519,57891,7,CB-CB,2020-10-07,Reverse - Unicopy & Stationers,45708,100486-1,621.0,0.0,0.0,0.0
+527,61358,4,CB-CB,2020-07-02,Reverse - Unknown payment FS,56340,118334-1,669.58,0.0,0.0,0.0
+531,56868,5,CB-CB,2020-08-11,Reverse - Rirhandzu Chuma,45452,100024-1,676.5,0.0,0.0,0.0
+538,55732,3,CB-CB,2020-06-22,Reverse - Matshego Melesi,45236,99620-1,690.98,0.0,0.0,0.0
+541,61838,12,CB-CB,2021-03-12,Reverse - Refilwe Mompati,47454,103444-1,692.62,0.0,0.0,0.0
+543,60148,12,CB-CB,2021-03-11,Reverse - Refilwe Mompati,47200,103019-1,692.8,0.0,0.0,0.0
+547,56163,4,CB-CB,2020-07-13,Reverse - DIKELEDI GABOUTLWELWE,45324,99777-1,700.48,0.0,0.0,0.0
+553,58392,8,CB-CB,2020-11-19,Reverse - Mpho Motumi,45855,100783-1,726.08,0.0,0.0,0.0
+556,55371,2,CB-CB,2020-05-04,Reverse - Mokhele Machongoane,45091,99363-1,756.7,0.0,0.0,0.0
+567,57895,7,CB-CB,2020-10-09,Reverse - Rirhandzu Chuma,45713,100495-1,810.2,0.0,0.0,0.0
+570,60156,12,CB-CB,2021-03-19,Reverse - Nicholas Ntsewu,47204,103027-1,822.0,0.0,0.0,0.0
+595,56173,4,CB-CB,2020-07-13,Reverse - Nkau Lerothodi,45329,99787-1,873.0,0.0,0.0,0.0
+603,56866,5,CB-CB,2020-08-21,Reverse - Rudzani Mashau,45451,100022-1,886.94,0.0,0.0,0.0
+659,55401,2,CB-CB,2020-05-08,Reverse - Thulani Bhengu,47684,103926-1,955.0,0.0,0.0,0.0
+661,57887,7,CB-CB,2020-10-07,Reverse - Thulani Bhengu,45704,100477-1,970.9,0.0,0.0,0.0
+663,55740,3,CB-CB,2020-06-23,Reverse - National Security and Fire Bloemfontein,45240,99628-1,972.0,0.0,0.0,0.0
+665,56161,4,CB-CB,2020-07-13,Reverse - National Security and Fire Bloemfontein,45323,99775-1,972.0,0.0,0.0,0.0
+668,61672,10,CB-CB,2021-01-25,Reverse - Khaya Rols,46827,102366-1,981.5,0.0,0.0,0.0
+713,56864,5,CB-CB,2020-08-21,Reverse - Malik Kashe,45450,100020-1,1074.0,0.0,0.0,0.0
+723,58659,9,CB-CB,2020-12-14,Reverse - Khaya Rols,44639,98539-1,1106.5,0.0,0.0,0.0
+730,58390,8,CB-CB,2020-11-19,Reverse - Lungisani Njoko,45854,100781-1,1129.9,0.0,0.0,0.0
+762,61401,5,CB-CB,2020-08-28,Reverse - Zuzumusa Ndwandwe,47391,103353-1,1236.6,0.0,0.0,0.0
+763,56862,5,CB-CB,2020-08-21,Reverse - Zuzumusa Ndwandwe,45449,100018-1,1236.6,0.0,0.0,0.0
+771,55022,1,CB-CB,2020-04-03,Reverse - Atlantis Corporate Travel,46519,101739-1,1276.0,0.0,0.0,0.0
+773,55020,1,CB-CB,2020-04-03,Reverse - Atlantis Corporate Travel,46518,101737-1,1276.0,0.0,0.0,0.0
+784,61627,9,CB-CB,2020-12-04,Reverse - Ntshilo Magdeline Molokoane,45977,101008-1,1282.0,0.0,0.0,0.0
+815,61566,8,CB-CB,2020-11-19,Reverse - Refilwe Mompati,47423,103409-1,1323.8,0.0,0.0,0.0
+844,57375,6,CB-CB,2020-09-17,Reverse - Ayanda Lushaba,45500,100105-1,1380.2,0.0,0.0,0.0
+976,55016,1,CB-CB,2020-04-03,Reverse - Atlantis Corporate Travel,46516,101733-1,1460.0,0.0,0.0,0.0
+1057,56884,5,CB-CB,2020-08-13,Reverse - Sello Tshoane,45460,100040-1,1521.6,0.0,0.0,0.0
+1078,59017,9,CB-CB,2020-12-18,Reverse - Enver Aboobaker,49303,105995-1,1580.0,0.0,0.0,0.0
+1100,57421,6,CB-CB,2020-09-21,Reverse - Sizwe Africa IT group (Pty) Ltd,45524,100156-1,1622.27,0.0,0.0,0.0
+1136,60389,5,CB-CB,2020-08-20,Reverse - AQUAZANIA AFRICA (PTY) LTD,47733,103998-1,1724.25,0.0,0.0,0.0
+1140,61556,8,CB-CB,2020-11-24,Reverse - Matjhabeng Local Municipality,45782,100622-1,1726.7,0.0,0.0,0.0
+1252,60150,12,CB-CB,2021-03-11,Reverse - Lipalesa Thaanyane,47201,103021-1,1758.0,0.0,0.0,0.0
+1271,59603,11,CB-CB,2021-02-03,Reverse - Tiney Cleaning Services 2 CC,47111,102876-1,1782.5,0.0,0.0,0.0
+1292,59615,11,CB-CB,2021-02-25,Reverse - Vuyolwethu Patric Sisulu,47117,102888-1,1823.95,0.0,0.0,0.0
+1302,58400,8,CB-CB,2020-11-24,Reverse - Jabatha Paper and Stationery cc,45859,100791-1,1879.98,0.0,0.0,0.0
+1305,57379,6,CB-CB,2020-09-17,Reverse - Mokhele Machongoane,45502,100109-1,1883.6,0.0,0.0,0.0
+1316,60278,2,CB-CB,2020-05-05,Reverse - Waltons Stationery Co,47955,104454-1,1931.53,0.0,0.0,0.0
+1327,57431,6,CB-CB,2020-09-30,Reverse - Grace Moganedi,45529,100166-1,1994.0,0.0,0.0,0.0
+1342,55297,2,CB-CB,2020-05-04,Reverse - Payroll payment,45069,99333-1,2000.0,0.0,0.0,0.0
+1347,54902,1,CB-CB,2020-04-14,Reverse - Denzel Blaauw,44980,99221-1,2029.0,0.0,0.0,0.0
+1356,57403,6,CB-CB,2020-09-28,Reverse - The SA Council for Quantity Surveying Profession,45514,100134-1,2162.08,0.0,0.0,0.0
+1379,58975,9,CB-CB,2020-12-18,Reverse - Atlantis Corporate Travel,46740,102172-1,2263.6,0.0,0.0,0.0
+1384,56860,5,CB-CB,2020-08-21,Reverse - DIKELEDI GABOUTLWELWE,45448,100016-1,2317.11,0.0,0.0,0.0
+1417,56155,4,CB-CB,2020-07-10,Reverse - Bytes System Integration,45320,99769-1,2493.84,0.0,0.0,0.0
+1423,55279,2,CB-CB,2020-05-04,Reverse - Payroll payment,45060,99324-1,2500.0,0.0,0.0,0.0
+1522,58384,8,CB-CB,2020-11-13,Reverse - SAICE (Cources & bookshops)The South African Insti,45848,100767-1,2886.0,0.0,0.0,0.0
+1600,55273,2,CB-CB,2020-05-04,Reverse - Payroll payment,45057,99321-1,3000.0,0.0,0.0,0.0
+1619,55752,3,CB-CB,2020-06-24,Reverse - The SA Council for Quantity Surveying Profession,45297,99733-1,3084.3,0.0,0.0,0.0
+1622,55704,3,CB-CB,2020-06-11,Reverse - Mikki Sivuyile Mac Millan Xayiya,45200,99547-1,3090.47,0.0,0.0,0.0
+1642,55403,2,CB-CB,2020-05-08,Reverse - Ayanda Lushaba,47685,103928-1,3267.7,0.0,0.0,0.0
+1647,56802,5,CB-CB,2020-08-04,Reverse - SACPCMP,45411,99938-1,3267.7,0.0,0.0,0.0
+1655,57425,6,CB-CB,2020-09-23,Reverse - Bytes System Integration,45526,100160-1,3368.01,0.0,0.0,0.0
+1680,61804,12,CB-CB,2021-03-11,Reverse - Matjhabeng Local Municipality,47156,102949-1,3453.31,0.0,0.0,0.0
+1690,55014,1,CB-CB,2020-04-03,Reverse - Atlantis Corporate Travel,46515,101731-1,3497.71,0.0,0.0,0.0
+1696,57909,7,CB-CB,2020-10-20,Reverse - Leopard Rock Office Supplies (Pty) Ltd,45732,100532-1,3503.12,0.0,0.0,0.0
+1707,56858,5,CB-CB,2020-08-21,Reverse - Tiney Cleaning Services 2 CC,45447,100014-1,3565.0,0.0,0.0,0.0
+1708,60630,12,CB-CB,2021-03-11,Reverse - Tiney Cleaning Services 2 CC,47995,104495-1,3565.0,0.0,0.0,0.0
+1712,58372,8,CB-CB,2020-11-02,Reverse - Kwelanga Training (Pty) Ltd,45829,100734-1,3588.0,0.0,0.0,0.0
+1731,58985,9,CB-CB,2020-12-18,Reverse - Moqhaka Municipality - Erf 5246,47944,104438-1,3656.0,0.0,0.0,0.0
+1739,56804,5,CB-CB,2020-08-14,Reverse - Unicopy & Stationers,45412,99940-1,3700.13,0.0,0.0,0.0
+1755,55411,2,CB-CB,2020-05-08,Reverse - Lethiwe Majola,47702,103954-1,3800.0,0.0,0.0,0.0
+1792,58398,8,CB-CB,2020-11-24,Reverse - Mbuyane Mlambo Msibi Trading & Projects (Pty) Ltd,45858,100789-1,3960.0,0.0,0.0,0.0
+1800,58987,9,CB-CB,2020-12-18,Reverse - Moqhaka Municipality - Erf 5246,47945,104440-1,3964.0,0.0,0.0,0.0
+1801,58376,8,CB-CB,2020-11-02,Reverse - Engineering Council of South Africa (Once Off Vend,45833,100743-1,3967.64,0.0,0.0,0.0
+1812,55760,3,CB-CB,2020-06-19,Reverse - Salary advance M Kgatuke,47169,102965-1,4000.0,0.0,0.0,0.0
+1836,60144,12,CB-CB,2021-03-02,Reverse - Institute of Directors in Southern Africa,47198,103015-1,4050.0,0.0,0.0,0.0
+1840,55024,1,CB-CB,2020-04-03,Reverse - Atlantis Corporate Travel,46520,101741-1,4060.58,0.0,0.0,0.0
+1847,57937,7,CB-CB,2020-10-09,Reverse - Payment 672449,46886,102441-1,4092.5,0.0,0.0,0.0
+1871,57939,7,CB-CB,2020-10-28,Reverse - Payment 672449,46887,102442-1,4214.2,0.0,0.0,0.0
+1892,57439,6,CB-CB,2020-09-11,Reverse - Payment 672449,46885,102440-1,4264.1,0.0,0.0,0.0
+1924,61812,12,CB-CB,2021-03-11,Reverse - Moqhaka Municipality - Erf 5246,47192,103005-1,4415.0,0.0,0.0,0.0
+1939,55028,1,CB-CB,2020-04-30,Reverse - Payment 672449,46881,102436-1,4500.900000000001,0.0,0.0,0.0
+1946,56882,5,CB-CB,2020-08-24,Reverse - SAICE,45459,100038-1,4504.0,0.0,0.0,0.0
+1947,57443,6,CB-CB,2020-09-11,Reverse - Teddy Vukeka,47941,104434-1,4504.0,0.0,0.0,0.0
+1951,61808,12,CB-CB,2021-03-11,Reverse - Moqhaka Municipality - Erf 5246,47158,102953-1,4520.0,0.0,0.0,0.0
+1961,55744,3,CB-CB,2020-06-24,Reverse - Valdec CC T/A Superior Vision (once-off vendor),45242,99632-1,4628.75,0.0,0.0,0.0
+1985,59007,9,CB-CB,2020-12-18,Reverse - Enver Aboobaker,48401,105176-1,4894.59,0.0,0.0,0.0
+2015,56902,5,CB-CB,2020-08-14,Reverse - Payment 672449,46883,102438-1,5033.8,0.0,0.0,0.0
+2031,58981,9,CB-CB,2020-12-11,Reverse - Payment 672449,46889,102444-1,5190.400000000001,0.0,0.0,0.0
+2037,57369,6,CB-CB,2020-09-10,Reverse - Nzingadi (Pty)Ltd,45497,100099-1,5216.0,0.0,0.0,0.0
+2038,57377,6,CB-CB,2020-09-17,Reverse - Nzingadi (Pty)Ltd,45501,100107-1,5216.0,0.0,0.0,0.0
+2040,57889,7,CB-CB,2020-10-07,Reverse - Nzingadi (Pty)Ltd,45707,100484-1,5216.0,0.0,0.0,0.0
+2067,56878,5,CB-CB,2020-08-19,Reverse - Leopard Rock Office Supplies (Pty) Ltd,45457,100034-1,5389.38,0.0,0.0,0.0
+2137,59244,10,CB-CB,2021-01-28,Reverse - Payment 672449,46890,102445-1,6007.1,0.0,0.0,0.0
+2153,55018,1,CB-CB,2020-04-03,Reverse - Atlantis Corporate Travel,46517,101735-1,6227.27,0.0,0.0,0.0
+2159,56255,4,CB-CB,2020-07-08,Reverse - Payment 672449,46884,102439-1,6309.9,0.0,0.0,0.0
+2160,56265,4,CB-CB,2020-07-10,Reverse - University of Cape Town,46970,102579-1,6320.0,0.0,0.0,0.0
+2165,56269,4,CB-CB,2020-07-08,Reverse - University of the Witwatersrand (Wits School of Bu,47109,102873-1,6320.0,0.0,0.0,0.0
+2170,61810,12,CB-CB,2021-03-11,Reverse - Moqhaka Municipality Erf No:00000229,47159,102955-1,6384.0,0.0,0.0,0.0
+2183,58406,8,CB-CB,2020-11-16,Reverse - Payment 672449,46888,102443-1,6518.8,0.0,0.0,0.0
+2221,58973,9,CB-CB,2020-12-18,Reverse - Atlantis Corporate Travel,46739,102170-1,6770.0,0.0,0.0,0.0
+2226,61562,8,CB-CB,2020-11-10,Reverse - Bidvest Services T/A Bidvest Prestige (Pty) Ltd,47175,102978-1,6796.5,0.0,0.0,0.0
+2237,57357,6,CB-CB,2020-09-28,Reverse - Careways Wellness (Pty) Ltd,45490,100085-1,6895.17,0.0,0.0,0.0
+2246,59242,10,CB-CB,2021-01-21,Reverse - Moaleko Trading (Pty) Ltd,46831,102372-1,7000.0,0.0,0.0,0.0
+2261,58374,8,CB-CB,2020-11-02,Reverse - Engineering Council of South Africa (Once Off Vend,45831,100738-1,7156.59,0.0,0.0,0.0
+2293,60587,11,CB-CB,2021-02-11,Reverse - M-Jnr and Olwethu Consulting (Pty) Ltd,47989,104487-1,7400.62,0.0,0.0,0.0
+2302,58969,9,CB-CB,2020-12-18,Reverse - M-Jnr and Olwethu Consulting (Pty) Ltd,46737,102166-1,7400.62,0.0,0.0,0.0
+2319,57383,6,CB-CB,2020-09-17,Reverse - M-Jnr and Olwethu Consulting (Pty) Ltd,45504,100113-1,7653.19,0.0,0.0,0.0
+2321,61594,8,CB-CB,2020-11-10,Reverse - Paymeny MJ-001,56338,118330-1,7653.19,0.0,0.0,0.0
+2331,58382,8,CB-CB,2020-11-09,Reverse - M-Jnr and Olwethu Consulting (Pty) Ltd,45847,100764-1,7653.19,0.0,0.0,0.0
+2334,54986,1,CB-CB,2020-04-30,Reverse - M-Jnr and Olwethu Consulting (Pty) Ltd,45047,99311-1,7653.19,0.0,0.0,0.0
+2355,60325,3,CB-CB,2020-06-02,Reverse - Uknown payment bank 03 KZN,49404,106132-1,7754.45,0.0,0.0,0.0
+2388,55750,3,CB-CB,2020-06-24,Reverse - South African Institute of Chartered Accountants,45296,99732-1,8029.17,0.0,0.0,0.0
+2389,55746,3,CB-CB,2020-06-24,Reverse - South African Institute of Chartered Accountants,45243,99634-1,8029.17,0.0,0.0,0.0
+2394,55399,2,CB-CB,2020-05-08,Reverse - Zozo Badi,47683,103924-1,8029.17,0.0,0.0,0.0
+2396,60358,4,CB-CB,2020-07-24,Reverse - Uknown payment KZN Bank 03,49409,106138-1,8130.0,0.0,0.0,0.0
+2454,56145,4,CB-CB,2020-07-26,Reverse - Peresoft,45313,99760-1,8963.1,0.0,0.0,0.0
+2474,58402,8,CB-CB,2020-11-04,Reverse - South African Institute of Chartered Accountants,46361,101652-1,9764.26,0.0,0.0,0.0
+2508,61757,11,CB-CB,2021-02-12,Reverse - Masepala Munic FS,49386,106112-1,10186.86,0.0,0.0,0.0
+2514,56183,4,CB-CB,2020-07-29,Reverse - Telkom SA - CT,45334,99797-1,10328.64,0.0,0.0,0.0
+2518,56908,5,CB-CB,2020-08-07,Reverse - Telkom SA Head Office,46980,102600-1,10328.64,0.0,0.0,0.0
+2538,58388,8,CB-CB,2020-11-19,Reverse - Maforite Tech Solutions (Pty) Ltd,45851,100776-1,10861.75,0.0,0.0,0.0
+2546,55010,1,CB-CB,2020-04-03,Reverse - Atlantis Corporate Travel,46513,101727-1,11230.44,0.0,0.0,0.0
+2548,60984,8,CB-CB,2020-11-04,Reverse - Payment Bank 04,49415,106144-1,11308.53,0.0,0.0,0.0
+2582,57951,7,CB-CB,2020-10-02,Reverse - Telkom SA Head Office,49209,105848-1,11900.55,0.0,0.0,0.0
+2584,57399,6,CB-CB,2020-09-28,Reverse - Telkom SA - CT,45512,100130-1,11900.55,0.0,0.0,0.0
+2593,57389,6,CB-CB,2020-09-21,Reverse - Delta Built Environment Consultants (Pty) Ltd,45507,100120-1,12006.0,0.0,0.0,0.0
+2594,57945,7,CB-CB,2020-10-22,Reverse - Telkom SA Head Office,47937,104429-1,12049.96,0.0,0.0,0.0
+2602,59631,11,CB-CB,2021-02-18,Reverse - Telkom SA Head Office,49207,105846-1,12217.79,0.0,0.0,0.0
+2613,56209,4,CB-CB,2020-07-31,Reverse - Rigala Projects and Trading (Pty) Ltd,45353,99838-1,12535.0,0.0,0.0,0.0
+2614,56221,4,CB-CB,2020-07-24,Reverse - Rigala Projects and Trading (Pty) Ltd,45359,99850-1,12535.0,0.0,0.0,0.0
+2628,61755,11,CB-CB,2021-02-12,Reverse - Masepala Munic FS,49385,106111-1,12907.93,0.0,0.0,0.0
+2646,57919,7,CB-CB,2020-10-26,Reverse - Telkom SA - CT,45737,100542-1,13155.35,0.0,0.0,0.0
+2663,56906,5,CB-CB,2020-08-07,Reverse - Telkom SA Head Office,46979,102598-1,13378.66,0.0,0.0,0.0
+2702,56217,4,CB-CB,2020-07-24,Reverse - P M Academy (Pty)Ltd,45357,99846-1,13782.75,0.0,0.0,0.0
+2713,60152,12,CB-CB,2021-03-16,Reverse - Rihlazana Auctions Gauteng CC,47202,103023-1,13900.0,0.0,0.0,0.0
+2721,58989,9,CB-CB,2020-12-18,Reverse - Moqhaka Municipality - Erf 5246,47946,104442-1,14210.0,0.0,0.0,0.0
+2759,54972,1,CB-CB,2020-04-08,Reverse - Independent Newspaper,45040,99297-1,14991.4,0.0,0.0,0.0
+2766,60188,12,CB-CB,2021-03-05,Reverse - Tirhisanani Valuation Services,48385,105156-1,15000.0,0.0,0.0,0.0
+2778,59549,11,CB-CB,2021-02-12,Reverse - Mazwi Tladi,46846,102389-1,15235.0,0.0,0.0,0.0
+2792,56227,4,CB-CB,2020-07-24,Reverse - M-Jnr and Olwethu Consulting (Pty) Ltd,45364,99861-1,15306.38,0.0,0.0,0.0
+2793,61354,4,CB-CB,2020-07-24,Reverse - M-Jnr and Olwethu Consulting (Pty) Ltd - FS,49137,105752-1,15306.38,0.0,0.0,0.0
+2795,57371,6,CB-CB,2020-09-14,Reverse - Tiney Cleaning Services 2 CC,45498,100101-1,15344.54,0.0,0.0,0.0
+2800,57429,6,CB-CB,2020-09-30,Reverse - Karoocleaning Services (Pty) Ltd,45528,100164-1,15446.34,0.0,0.0,0.0
+2859,55718,3,CB-CB,2020-06-25,Reverse - South African Institute of Chartered Accountants,45228,99606-1,16058.34,0.0,0.0,0.0
+2865,59613,11,CB-CB,2021-02-23,Reverse - The Laser Transport Group T/A Pickfords Removals (,47116,102886-1,16228.8,0.0,0.0,0.0
+2868,60180,12,CB-CB,2021-03-05,Reverse - Pickfords,48325,105068-1,16228.8,0.0,0.0,0.0
+2869,56267,4,CB-CB,2020-07-20,Reverse - University of Johannesburg,46971,102581-1,16425.0,0.0,0.0,0.0
+2896,56856,5,CB-CB,2020-08-21,Reverse - Cassie Gerber Property Valuers CC,45446,100012-1,17000.0,0.0,0.0,0.0
+2904,55738,3,CB-CB,2020-06-23,Reverse - Telkom SA Head Office,45239,99626-1,17070.94,0.0,0.0,0.0
+2919,58967,9,CB-CB,2020-12-15,Reverse - Toma-Tomorrow Matters Now (Pty) Ltd,46736,102164-1,17940.0,0.0,0.0,0.0
+2924,62138,12,CB-CB,2021-03-05,Reverse - Mamoshibudi Construction and Property Solutions (P,47179,102987-1,18000.0,0.0,0.0,0.0
+2933,57911,7,CB-CB,2020-10-20,Reverse - Bonga Creations (Pty)Ltd,45733,100534-1,18309.15,0.0,0.0,0.0
+2939,57923,7,CB-CB,2020-10-28,Reverse - Extreme Valvet CC,45739,100546-1,18390.0,0.0,0.0,0.0
+2950,54984,1,CB-CB,2020-04-30,Reverse - Telkom SA Head Office,45046,99309-1,18821.8,0.0,0.0,0.0
+2957,56249,4,CB-CB,2020-07-22,Reverse - Ndonga and Skhunyana Development Planners,46616,101956-1,19000.0,0.0,0.0,0.0
+2961,56213,4,CB-CB,2020-07-24,Reverse - Ndonga and Skhunyana Development Planners,45355,99842-1,19000.0,0.0,0.0,0.0
+2963,56241,4,CB-CB,2020-07-22,Reverse - Ndonga and Skhunyana Development Planners,45741,100550-1,19000.0,0.0,0.0,0.0
+2971,55764,3,CB-CB,2020-06-25,Reverse - Telkom SA Head Office,47699,103949-1,19190.28,0.0,0.0,0.0
+3003,56207,4,CB-CB,2020-07-31,Reverse - Zwahuli Property Valuers,45352,99836-1,19830.0,0.0,0.0,0.0
+3034,56854,5,CB-CB,2020-08-05,Reverse - Tirhisanani Valuation Services,45445,100010-1,20000.0,0.0,0.0,0.0
+3047,57427,6,CB-CB,2020-09-30,Reverse - City of Tshwane,45527,100162-1,21226.67,0.0,0.0,0.0
+3099,55345,2,CB-CB,2020-05-04,Reverse - Bamogale Enterprise (Pty)Ltd t/a Bamogale Security,45084,99352-1,22856.16,0.0,0.0,0.0
+3100,55349,2,CB-CB,2020-05-04,Reverse - Bamogale Enterprise (Pty)Ltd t/a Bamogale Security,45086,99356-1,22856.16,0.0,0.0,0.0
+3101,56850,5,CB-CB,2020-08-24,Reverse - Bamogale Enterprise (Pty)Ltd t/a Bamogale Security,45443,100006-1,22856.16,0.0,0.0,0.0
+3106,61503,7,CB-CB,2020-10-15,Reverse - Point Synergy Valuations,47421,103406-1,23000.0,0.0,0.0,0.0
+3112,61061,9,CB-CB,2020-12-18,Reverse - Atlantic Cleaning & Pest Control Services,48464,105286-1,23241.02,0.0,0.0,0.0
+3114,57907,7,CB-CB,2020-10-15,Reverse - Urban-Econ Development Economist (Pty) Ltd,45731,100530-1,23287.5,0.0,0.0,0.0
+3116,59611,11,CB-CB,2021-02-12,Reverse - Neo Technologies,47115,102884-1,23407.03,0.0,0.0,0.0
+3125,57295,6,CB-CB,2020-09-04,Reverse - Atlantis Corporate Travel,45464,100046-1,24114.62,0.0,0.0,0.0
+3141,55736,3,CB-CB,2020-06-22,Reverse - Swartland Municipality,45238,99624-1,24618.0,0.0,0.0,0.0
+3150,54968,1,CB-CB,2020-04-02,Reverse - Ngata Ngwe (Pty) Ltd,45038,99293-1,25000.0,0.0,0.0,0.0
+3165,59619,11,CB-CB,2021-02-25,Reverse - Kgolofelo Property Services cc,47119,102892-1,25450.0,0.0,0.0,0.0
+3175,58961,9,CB-CB,2020-12-15,Reverse - Rifumo Town and Regional Planners,46733,102158-1,26000.0,0.0,0.0,0.0
+3176,61741,11,CB-CB,2021-02-26,Reverse - Mamoshibudi Construction and Property Solutions (P,47121,102896-1,26000.0,0.0,0.0,0.0
+3179,58963,9,CB-CB,2020-12-15,Reverse - Ngata Ngwe (Pty) Ltd,46734,102160-1,26000.0,0.0,0.0,0.0
+3180,57407,6,CB-CB,2020-09-28,Reverse - Rifumo Town and Regional Planners,45516,100138-1,26000.0,0.0,0.0,0.0
+3192,57363,6,CB-CB,2020-09-08,Reverse - Gudlhuza Development Solutions CC,45494,100093-1,26414.06,0.0,0.0,0.0
+3201,57901,7,CB-CB,2020-10-13,Reverse - Bamogale Enterprise (Pty)Ltd t/a Bamogale Security,45720,100511-1,26499.85,0.0,0.0,0.0
+3224,56181,4,CB-CB,2020-07-29,Reverse - Kgolofelo Property Services cc,45333,99795-1,26760.0,0.0,0.0,0.0
+3229,61920,4,CB-CB,2020-07-22,Reverse - Ndonga and Skhunyana Development Planners,47237,103075-1,27000.0,0.0,0.0,0.0
+3238,58959,9,CB-CB,2020-12-18,Reverse - Bamogale Enterprise (Pty)Ltd t/a Bamogale Security,46732,102156-1,27013.45,0.0,0.0,0.0
+3239,61641,9,CB-CB,2020-12-18,Reverse - Bamogale Enterprise (Pty)Ltd t/a Bamogale Security,49220,105871-1,27013.45,0.0,0.0,0.0
+3277,57405,6,CB-CB,2020-09-28,Reverse - Xoliswa M Holdings (Pty) Ltd,45515,100136-1,27370.0,0.0,0.0,0.0
+3295,57397,6,CB-CB,2020-09-28,Reverse - Telkom SA Head Office,45511,100128-1,27595.02,0.0,0.0,0.0
+3299,55347,2,CB-CB,2020-05-04,Reverse - Bamogale Enterprise (Pty)Ltd t/a Bamogale Security,45085,99354-1,27830.0,0.0,0.0,0.0
+3300,55351,2,CB-CB,2020-05-15,Reverse - Bamogale Enterprise (Pty)Ltd t/a Bamogale Security,45087,99358-1,27830.0,0.0,0.0,0.0
+3301,56846,5,CB-CB,2020-08-24,Reverse - Bamogale Enterprise (Pty)Ltd t/a Bamogale Security,45441,100002-1,27830.0,0.0,0.0,0.0
+3303,58957,9,CB-CB,2020-12-18,Reverse - Atlantis Corporate Travel,46731,102154-1,27904.43,0.0,0.0,0.0
+3309,56844,5,CB-CB,2020-08-19,Reverse - Tirhisanani Valuation Services,45440,100000-1,28000.0,0.0,0.0,0.0
+3347,56159,4,CB-CB,2020-07-10,Reverse - Affirmative Portfolios,45322,99773-1,29860.69,0.0,0.0,0.0
+3354,56842,5,CB-CB,2020-08-19,Reverse - A and Sons Valuers,45439,99998-1,29900.0,0.0,0.0,0.0
+3356,56898,5,CB-CB,2020-08-18,Reverse - A and Sons Valuers,46618,101960-1,29900.0,0.0,0.0,0.0
+3358,61844,12,CB-CB,2021-03-17,Reverse - Kgolofelo Property Services cc,47457,103448-1,29965.0,0.0,0.0,0.0
+3381,59021,9,CB-CB,2020-12-17,Reverse - Kwelanga Training cc,57130,119746-1,30498.0,0.0,0.0,0.0
+3382,57897,7,CB-CB,2020-10-09,Reverse - Uncommon Favour Consulting &Trading JV Hynas Secur,45716,100502-1,30521.0,0.0,0.0,0.0
+3387,57391,6,CB-CB,2020-09-21,Reverse - Uncommon Favour Consulting &Trading JV Hynas Secur,45508,100122-1,30521.0,0.0,0.0,0.0
+3393,58378,8,CB-CB,2020-11-06,Reverse - Uncommon Favour Consulting &Trading JV Hynas Secur,45834,100745-1,30521.0,0.0,0.0,0.0
+3401,54982,1,CB-CB,2020-04-29,Reverse - Uncommon Favour Consulting &Trading JV Hynas Secur,45045,99307-1,30845.0,0.0,0.0,0.0
+3409,56840,5,CB-CB,2020-08-05,Reverse - Uncommon Favour Consulting &Trading JV Hynas Secur,45438,99996-1,30845.0,0.0,0.0,0.0
+3414,56153,4,CB-CB,2020-07-10,Reverse - Affirmative Portfolios,45319,99767-1,31238.58,0.0,0.0,0.0
+3428,61753,11,CB-CB,2021-02-25,Reverse - Ndonga and Skhunyana Development Planners,47451,103440-1,32000.0,0.0,0.0,0.0
+3436,54970,1,CB-CB,2020-04-08,Reverse - Ihobosha Enterprise (Pty) Ltd,45039,99295-1,32200.0,0.0,0.0,0.0
+3444,56233,4,CB-CB,2020-07-24,Reverse - Jwara Holdings (Pty) Ltd,45367,99867-1,32453.0,0.0,0.0,0.0
+3445,58955,9,CB-CB,2020-12-11,Reverse - Barzani Development (Pty)Ltd,46730,102152-1,32457.37,0.0,0.0,0.0
+3453,54974,1,CB-CB,2020-04-08,Reverse - Omnival Valuations,45041,99299-1,32500.0,0.0,0.0,0.0
+3460,61131,11,CB-CB,2021-02-10,Reverse - Bamogale Enterprise (Pty)Ltd t/a Bamogale Security,48059,104585-1,33464.93,0.0,0.0,0.0
+3461,58953,9,CB-CB,2020-12-18,Reverse - Bamogale Enterprise (Pty)Ltd t/a Bamogale Security,46729,102150-1,33464.93,0.0,0.0,0.0
+3470,55008,1,CB-CB,2020-04-03,Reverse - Atlantis Corporate Travel,46416,101708-1,33500.0,0.0,0.0,0.0
+3483,56888,5,CB-CB,2020-08-20,Reverse - Ndonga and Skhunyana Development Planners,45742,100552-1,34000.0,0.0,0.0,0.0
+3484,56900,5,CB-CB,2020-08-24,Reverse - Ndonga and Skhunyana Development Planners,46619,101962-1,34000.0,0.0,0.0,0.0
+3492,60146,12,CB-CB,2021-03-08,Reverse - Mamoshibudi Construction and Property Solutions (P,47199,103017-1,34000.0,0.0,0.0,0.0
+3504,57893,7,CB-CB,2020-10-07,Reverse - Kopanong Safety Services (Pty) Ltd,45711,100490-1,34500.0,0.0,0.0,0.0
+3505,54980,1,CB-CB,2020-04-29,Reverse - Kopanong Safety Services (Pty) Ltd,45044,99305-1,34500.0,0.0,0.0,0.0
+3510,56231,4,CB-CB,2020-07-24,Reverse - Kopanong Safety Services (Pty) Ltd,45366,99865-1,34500.0,0.0,0.0,0.0
+3516,59627,11,CB-CB,2021-02-05,Reverse - Rammone 32 (Pty) Ltd,48324,105066-1,35000.0,0.0,0.0,0.0
+3518,57433,6,CB-CB,2020-09-30,Reverse - Ayanda Mbanga Communications (Pty) Ltd,45530,100168-1,35076.840000000004,0.0,0.0,0.0
+3544,60972,8,CB-CB,2020-11-13,Reverse - Chavangu Services,48042,104565-1,36574.0,0.0,0.0,0.0
+3545,60978,8,CB-CB,2020-11-19,Reverse - Chameleon Interior Architects,49242,105902-1,36574.0,0.0,0.0,0.0
+3548,57367,6,CB-CB,2020-09-08,Reverse - Bucan Holdings (Pty) Ltd,45496,100097-1,37137.41,0.0,0.0,0.0
+3553,56185,4,CB-CB,2020-07-29,Reverse - MANCOSA,45335,99799-1,37800.0,0.0,0.0,0.0
+3567,58951,9,CB-CB,2020-12-07,Reverse - Malik Kashe,46728,102148-1,38350.0,0.0,0.0,0.0
+3570,56838,5,CB-CB,2020-08-21,Reverse - Tashoma Property Consultants & Valuers,45437,99994-1,38527.83,0.0,0.0,0.0
+3573,61959,5,CB-CB,2020-08-28,Reverse - Tashoma Property Consultants & Valuers,47462,103454-1,38527.83,0.0,0.0,0.0
+3578,56215,4,CB-CB,2020-07-24,Reverse - Rihlazana Auctions Gauteng CC,45356,99844-1,39500.0,0.0,0.0,0.0
+3582,56836,5,CB-CB,2020-08-14,Reverse - Zorha Khan Developers CC,45436,99992-1,39744.0,0.0,0.0,0.0
+3589,57917,7,CB-CB,2020-10-20,Reverse - Xhutha Mphongolo Property Services,45736,100540-1,39767.0,0.0,0.0,0.0
+3597,61311,3,CB-CB,2020-06-02,Reverse - Unallocated payment FS,49431,106175-1,40861.92,0.0,0.0,0.0
+3600,55720,3,CB-CB,2020-06-25,Reverse - Telkom SA Head Office,45229,99608-1,41532.2,0.0,0.0,0.0
+3616,56834,5,CB-CB,2020-08-31,Reverse - M-Jnr and Olwethu Consulting (Pty) Ltd,45435,99990-1,44403.72,0.0,0.0,0.0
+3621,56225,4,CB-CB,2020-07-24,Reverse - Ngata Ngwe (Pty) Ltd,45363,99859-1,45000.0,0.0,0.0,0.0
+3644,56247,4,CB-CB,2020-07-22,Reverse - Montani Property Valuers (Pty) Ltd,46615,101954-1,48000.0,0.0,0.0,0.0
+3645,56223,4,CB-CB,2020-07-24,Reverse - Montani Property Valuers (Pty) Ltd,45360,99854-1,48000.0,0.0,0.0,0.0
+3653,56205,4,CB-CB,2020-07-31,Reverse - Sizwe Africa IT group (Pty) Ltd,45350,99831-1,49626.89,0.0,0.0,0.0
+3655,57365,6,CB-CB,2020-09-08,Reverse - VIP Consulting Enginneers (Pty) Ltd,45495,100095-1,49702.46,0.0,0.0,0.0
+3657,56143,4,CB-CB,2020-07-31,Reverse - AIG EXCO insurance,45312,99758-1,50000.0,0.0,0.0,0.0
+3658,56065,4,CB-CB,2020-07-20,Reverse - Aurecon South Africa (Pty) Ltd,45082,99348-1,50000.0,0.0,0.0,0.0
+3684,57915,7,CB-CB,2020-10-20,Reverse - Ntshikayendlu Projects (Pty) Ltd,45735,100538-1,50949.0,0.0,0.0,0.0
+3707,59623,11,CB-CB,2021-02-24,Reverse - University of South Africa,48157,104766-1,53063.38,0.0,0.0,0.0
+3710,54976,1,CB-CB,2020-04-18,Reverse - Uncommon Favour Consulting &Trading JV Hynas Secur,45042,99301-1,54001.7,0.0,0.0,0.0
+3713,58396,8,CB-CB,2020-11-24,Reverse - Cumlaude Consulting (Pty) Ltd,45857,100787-1,54015.5,0.0,0.0,0.0
+3719,57885,7,CB-CB,2020-10-02,Reverse - Bamogale Enterprise (Pty)Ltd t/a Bamogale Security,45701,100470-1,55015.88,0.0,0.0,0.0
+3720,60162,12,CB-CB,2021-03-25,Reverse - Teleresources (Pty)Ltd,47207,103033-1,55200.67,0.0,0.0,0.0
+3722,57921,7,CB-CB,2020-10-28,Reverse - Ultimate Recruitment Solutions CC,45738,100544-1,55663.73,0.0,0.0,0.0
+3751,59240,10,CB-CB,2021-01-26,Reverse - Ihobosha Enterprise (Pty) Ltd,46830,102370-1,60576.25,0.0,0.0,0.0
+3753,56830,5,CB-CB,2020-08-21,Reverse - Ndonga and Skhunyana Development Planners,45433,99986-1,61000.0,0.0,0.0,0.0
+3756,57913,7,CB-CB,2020-10-20,Reverse - Bixo Co (Pty) Ltd,45734,100536-1,61461.0,0.0,0.0,0.0
+3761,61448,6,CB-CB,2020-09-15,Reverse - Kopanong Safety Services (Pty) Ltd,47406,103380-1,61690.0,0.0,0.0,0.0
+3767,56824,5,CB-CB,2020-08-05,Reverse - Lutendo Property Group (Pty) Ltd,45430,99980-1,63756.0,0.0,0.0,0.0
+3769,56896,5,CB-CB,2020-08-04,Reverse - Lutendo Property Group (Pty) Ltd,46617,101958-1,63756.0,0.0,0.0,0.0
+3773,59621,11,CB-CB,2021-02-26,Reverse - Assent Group (Pty)Ltd,47120,102894-1,63888.88,0.0,0.0,0.0
+3774,55754,3,CB-CB,2020-06-24,Reverse - Assent Group (Pty)Ltd,45298,99734-1,63888.88,0.0,0.0,0.0
+3794,57413,6,CB-CB,2020-09-29,Reverse - Lukhano (Pty) Ltd,45519,100144-1,64691.13,0.0,0.0,0.0
+3801,61588,8,CB-CB,2020-11-04,Reverse - Unknown payment FS,49411,106140-1,66315.0,0.0,0.0,0.0
+3802,56195,4,CB-CB,2020-07-31,Reverse - African Development Planning Consultant,45342,99814-1,66875.11,0.0,0.0,0.0
+3807,60792,4,CB-CB,2020-07-31,Reverse - Payment AdepCo,56313,118290-1,66875.11,0.0,0.0,0.0
+3814,54978,1,CB-CB,2020-04-20,Reverse - Ndonga and Skhunyana Development Planners,45043,99303-1,68000.0,0.0,0.0,0.0
+3819,56193,4,CB-CB,2020-07-31,Reverse - Kopanong Safety Services (Pty) Ltd,45341,99812-1,69000.0,0.0,0.0,0.0
+3825,58380,8,CB-CB,2020-11-09,Reverse - Bageso Housing Development Consultants,45845,100761-1,69575.0,0.0,0.0,0.0
+3836,59005,9,CB-CB,2020-12-18,Reverse - Altron TMT (Pty) Ltd,48397,105170-1,70250.68000000001,0.0,0.0,0.0
+3839,61059,9,CB-CB,2020-12-18,Reverse - Bytes System Integration,48053,104577-1,70250.68000000001,0.0,0.0,0.0
+3848,58945,9,CB-CB,2020-12-15,Reverse - Sidas Security Services (Pty) Ltd,46725,102142-1,71871.88,0.0,0.0,0.0
+3849,60533,9,CB-CB,2020-12-17,Reverse - Sidas Security Services (Pty) Ltd,47984,104481-1,71871.88,0.0,0.0,0.0
+3850,56177,4,CB-CB,2020-07-20,Reverse - Frikkie Pienaar (Pty) Ltd,45331,99791-1,72444.58,0.0,0.0,0.0
+3855,60682,2,CB-CB,2020-05-04,Reverse - Frikkie Pienaar (Pty) Ltd,48001,104504-1,72546.54000000001,0.0,0.0,0.0
+3857,55724,3,CB-CB,2020-06-11,Reverse - B Xulu and Partners,45232,99612-1,73327.39,0.0,0.0,0.0
+3861,61170,12,CB-CB,2021-03-02,Reverse - Frikkie Pienaar (Pty) Ltd,46330,101602-1,74087.09,0.0,0.0,0.0
+3866,60649,1,CB-CB,2020-04-02,Reverse - Frikkie Pienaar (Pty) Ltd,47998,104500-1,74750.88,0.0,0.0,0.0
+3876,61965,5,CB-CB,2020-08-20,Reverse - Bageso Housing Development Consultants - NORTH WES,47951,104448-1,77040.0,0.0,0.0,0.0
+3882,60178,12,CB-CB,2021-03-02,Reverse - TGR Attorneys,48222,104863-1,77100.0,0.0,0.0,0.0
+3903,57349,6,CB-CB,2020-09-03,Reverse - Frikkie Pienaar (Pty) Ltd,45486,100077-1,84069.72,0.0,0.0,0.0
+3912,60632,12,CB-CB,2021-03-16,Reverse - Delta Facilities Fund,47996,104497-1,85340.97,0.0,0.0,0.0
+3917,58943,9,CB-CB,2020-12-11,Reverse - Barzani Development (Pty)Ltd,46724,102140-1,86205.0,0.0,0.0,0.0
+3920,57409,6,CB-CB,2020-09-29,Reverse - Kgotso and Lhalha (Pty) Ltd,45517,100140-1,86254.84,0.0,0.0,0.0
+3926,61210,12,CB-CB,2021-03-24,Reverse - Zorha Khan Developers CC,48068,104601-1,86675.25,0.0,0.0,0.0
+3928,61212,12,CB-CB,2021-03-24,Reverse - Aventino Group CC,48071,104604-1,86675.25,0.0,0.0,0.0
+3931,55375,2,CB-CB,2020-05-18,Reverse - Spitskop Ontwikkeling (EDMS) BPK,45093,99367-1,87184.95,0.0,0.0,0.0
+3933,60286,2,CB-CB,2020-05-29,Reverse - Unknown payment Bank 03 KZN,49396,106127-1,91406.68,0.0,0.0,0.0
+3939,61507,7,CB-CB,2020-10-09,Reverse - Uncommon Favour Consulting &Trading JV Hynas Secur,49375,106097-1,91887.0,0.0,0.0,0.0
+3945,55006,1,CB-CB,2020-04-03,Reverse - Ndonga and Skhunyana Development Planners,46356,101640-1,94000.0,0.0,0.0,0.0
+3948,55734,3,CB-CB,2020-06-22,Reverse - Spitskop Ontwikkeling (EDMS) BPK,45237,99622-1,94405.8,0.0,0.0,0.0
+3951,61307,3,CB-CB,2020-06-25,Reverse - Spitskop Ontwikkeling (EDMS) BPK,47380,103338-1,94405.8,0.0,0.0,0.0
+3955,60819,5,CB-CB,2020-08-28,Reverse - Rifumo Town and Regional Planners,48015,104519-1,95500.0,0.0,0.0,0.0
+3959,56199,4,CB-CB,2020-07-31,Reverse - Rifumo Town and Regional Planners,45346,99823-1,95500.0,0.0,0.0,0.0
+3960,56237,4,CB-CB,2020-07-31,Reverse - Rifumo Town and Regional Planners,45577,100233-1,95500.0,0.0,0.0,0.0
+3991,56820,5,CB-CB,2020-08-12,Reverse - Ditsamai Investments and Projects CC,45428,99976-1,105360.0,0.0,0.0,0.0
+3995,57393,6,CB-CB,2020-09-21,Reverse - Spitskop Ontwikkeling (EDMS) BPK,45509,100124-1,106720.07,0.0,0.0,0.0
+3996,60719,3,CB-CB,2020-06-25,Reverse - Bageso Housing Development Consultants,48370,105138-1,108750.0,0.0,0.0,0.0
+3999,56229,4,CB-CB,2020-07-24,Reverse - Spitskop Ontwikkeling (EDMS) BPK,45365,99863-1,108886.6,0.0,0.0,0.0
+4010,55742,3,CB-CB,2020-06-24,Reverse - Elite Trading Solutions (Pty) Ltd,45241,99630-1,115745.0,0.0,0.0,0.0
+4016,55343,2,CB-CB,2020-05-01,Reverse - Bamogale Enterprise (Pty)Ltd t/a Bamogale Security,45083,99350-1,127749.7,0.0,0.0,0.0
+4018,58977,9,CB-CB,2020-12-11,Reverse - Barzani Development (Pty)Ltd,46741,102174-1,129829.48,0.0,0.0,0.0
+4021,56818,5,CB-CB,2020-08-12,Reverse - Diges Group cc,45427,99974-1,132192.5,0.0,0.0,0.0
+4037,56189,4,CB-CB,2020-07-31,Reverse - Matroosov Military Veterans Primary Co-Operative L,45337,99803-1,144276.0,0.0,0.0,0.0
+4055,61806,12,CB-CB,2021-03-11,Reverse - Moqhaka Municipality,47157,102951-1,150000.0,0.0,0.0,0.0
+4060,57347,6,CB-CB,2020-09-03,Reverse - Infraplan Consulting Town Planners Engineers & Con,45485,100075-1,150410.6,0.0,0.0,0.0
+4064,57411,6,CB-CB,2020-09-29,Reverse - Siyazakha Trading CC,45518,100142-1,150945.98,0.0,0.0,0.0
+4090,60276,2,CB-CB,2020-05-29,Reverse - Strategic Planning Resources CC,47721,103985-1,168000.0,0.0,0.0,0.0
+4099,54870,1,CB-CB,2020-04-03,Reverse - Mangaung Metro Municipality,44955,99189-1,178582.0,0.0,0.0,0.0
+4116,56191,4,CB-CB,2020-07-31,Reverse - Airborne Planners (Pty)Ltd,45338,99805-1,192500.0,0.0,0.0,0.0
+4121,56816,5,CB-CB,2020-08-26,Reverse - Thoba Mkangisa and Associates CC,45426,99972-1,194213.74,0.0,0.0,0.0
+4122,62357,12,CB-CB,2021-03-04,Reverse - Tlou Tadima Projects (Pty) Ltd,47125,102901-1,207990.45,0.0,0.0,0.0
+4132,62188,9,CB-CB,2020-12-04,Reverse - 4 Front Investment Holdings (Pty) Ltd,45860,100793-1,208302.8,0.0,0.0,0.0
+4137,61483,7,CB-CB,2020-10-22,Reverse - WMA Group JV Urizima 145 cc,45694,100459-1,209990.0,0.0,0.0,0.0
+4149,55389,2,CB-CB,2020-05-08,Reverse - Growth Point Management Services,46874,102429-1,227887.45,0.0,0.0,0.0
+4153,56814,5,CB-CB,2020-08-21,Reverse - Mamphele Development Planners,45425,99970-1,229554.97,0.0,0.0,0.0
+4164,61202,12,CB-CB,2021-03-05,Reverse - Bageso Housing Development Consultants - LIMPOPO,48064,104592-1,237263.57,0.0,0.0,0.0
+4167,55662,3,CB-CB,2020-06-02,Reverse - Atlantis Corporate Travel,45125,99412-1,240719.42,0.0,0.0,0.0
+4199,62059,9,CB-CB,2020-12-17,Reverse - Bamogale Enterprise(Pty) t/a Bamogale Security Sol,47585,103739-1,263936.44,0.0,0.0,0.0
+4204,61552,8,CB-CB,2020-11-10,Reverse - Moqhaka Municipality,45774,100608-1,272044.23,0.0,0.0,0.0
+4209,60393,5,CB-CB,2020-08-28,Reverse - Uknown payment Bank 03 KZN,56325,118313-1,275988.5,0.0,0.0,0.0
+4212,56812,5,CB-CB,2020-08-24,Reverse - Isibuko Development Planners CC,45424,99968-1,275988.5,0.0,0.0,0.0
+4232,60907,7,CB-CB,2020-10-30,Reverse - Zorha Khan Developers CC,48026,104536-1,288917.5,0.0,0.0,0.0
+4242,58941,9,CB-CB,2020-12-11,Reverse - Amandla Building & Construction (Pty)Ltd,46723,102138-1,301206.75,0.0,0.0,0.0
+4270,60889,7,CB-CB,2020-10-23,Reverse - Transfer,45002,99241-1,349993.7,0.0,0.0,0.0
+4275,61214,12,CB-CB,2021-03-24,Reverse - Zorha Khan Developers CC,48074,104606-1,352479.35,0.0,0.0,0.0
+4281,56201,4,CB-CB,2020-07-31,Reverse - Zorha Khan Developers CC,45347,99825-1,356900.0,0.0,0.0,0.0
+4284,56203,4,CB-CB,2020-07-31,Reverse - Morula Consulting Engineers & Managers CC,45348,99827-1,357075.0,0.0,0.0,0.0
+4286,60142,12,CB-CB,2021-03-01,Reverse - Morula Consulting Engineers & Managers CC,47197,103013-1,357075.0,0.0,0.0,0.0
+4289,61133,11,CB-CB,2021-02-26,Reverse - Aventino Group CC,48344,105101-1,364036.05,0.0,0.0,0.0
+4290,59605,11,CB-CB,2021-02-04,Reverse - Zorha Khan Developers CC,47112,102878-1,364036.05,0.0,0.0,0.0
+4313,57927,7,CB-CB,2020-10-28,Reverse - Edward Nathan Sonnerbergs Inc,45753,100578-1,372799.08,0.0,0.0,0.0
+4316,57949,7,CB-CB,2020-10-02,Reverse - Bageso Housing Development Consultants - LIMPOPO,49179,105809-1,385763.57,0.0,0.0,0.0
+4317,58370,8,CB-CB,2020-11-02,Reverse - Moepeng Trading 40,45826,100729-1,389096.18,0.0,0.0,0.0
+4332,57905,7,CB-CB,2020-10-14,Reverse - B M Machesa Construction (Pty) Ltd,45726,100525-1,405016.84,0.0,0.0,0.0
+4335,58939,9,CB-CB,2020-12-11,Reverse - Amandla Building & Construction (Pty)Ltd,46722,102136-1,411129.25,0.0,0.0,0.0
+4337,61198,12,CB-CB,2021-03-01,Reverse - Aventino Group CC,48060,104587-1,416041.2,0.0,0.0,0.0
+4356,62328,11,CB-CB,2021-02-26,Reverse - BIZ Africa Construction (Pty) Ltd,46855,102399-1,425001.93,0.0,0.0,0.0
+4392,55387,2,CB-CB,2020-05-08,Reverse - Growth Point Management Services,46873,102427-1,499041.28,0.0,0.0,0.0
+4399,55490,3,CB-CB,2020-06-02,Reverse - Growth Point Properties JHB,41133,91624-1,505264.77,0.0,0.0,0.0
+4408,61967,5,CB-CB,2020-08-20,Reverse - Bageso Housing Development Consultants - NORTH WES,47952,104450-1,507150.0,0.0,0.0,0.0
+4420,57353,6,CB-CB,2020-09-08,Reverse - Mamondo Development & Construction CC,45488,100081-1,553530.9400000001,0.0,0.0,0.0
+4430,58386,8,CB-CB,2020-11-16,Reverse - Ntsangalala Holdings (Pty)Ltd,45850,100774-1,575126.89,0.0,0.0,0.0
+4437,58937,9,CB-CB,2020-12-17,Reverse - Aventino Group CC,46721,102134-1,583613.35,0.0,0.0,0.0
+4444,57423,6,CB-CB,2020-09-22,Reverse - Thabong Civils and Project Management,45525,100158-1,598395.18,0.0,0.0,0.0
+4445,58935,9,CB-CB,2020-12-17,Reverse - Infraplan Consulting Town Planners Engineers & Con,46720,102132-1,601642.4,0.0,0.0,0.0
+4456,57419,6,CB-CB,2020-09-29,Reverse - M2M Projects CC,45522,100150-1,623885.0,0.0,0.0,0.0
+4459,61206,12,CB-CB,2021-03-01,Reverse - Mamondo Development & Construction CC,48066,104596-1,624061.8,0.0,0.0,0.0
+4465,61200,12,CB-CB,2021-03-03,Reverse - Aventino Group CC,48062,104590-1,635618.5,0.0,0.0,0.0
+4469,62043,9,CB-CB,2020-12-14,Reverse - Bageso Housing Development Consultants - LIMPOPO,45978,101011-1,693000.0,0.0,0.0,0.0
+4490,60154,12,CB-CB,2021-03-18,Reverse - Aventino Group CC,47203,103025-1,774298.9,0.0,0.0,0.0
+4497,57355,6,CB-CB,2020-09-08,Reverse - Aventino Group CC,45489,100083-1,799072.16,0.0,0.0,0.0
+4506,56211,4,CB-CB,2020-07-24,Reverse - Urban Dynamics Free State INC,45354,99840-1,856950.0,0.0,0.0,0.0
+4509,54626,1,CB-CB,2020-04-09,Reverse - Growth Point Properties JHB,40566,90367-1,877321.01,0.0,0.0,0.0
+4538,61238,12,CB-CB,2021-03-02,Reverse - Aventino Group CC,48345,105103-1,999654.55,0.0,0.0,0.0
+4540,60297,3,CB-CB,2020-06-05,Reverse - Transfer,44985,99226-1,1000000.0,0.0,0.0,0.0
+4548,60877,7,CB-CB,2020-10-23,Reverse - Transfer,44998,99239-1,1000000.0,0.0,0.0,0.0
+4553,54904,1,CB-CB,2020-04-14,Reverse - Transfer,44981,99222-1,1000000.0,0.0,0.0,0.0
+4563,58933,9,CB-CB,2020-12-11,Reverse - Barzani Development (Pty)Ltd,46719,102130-1,1028055.0,0.0,0.0,0.0
+4565,61204,12,CB-CB,2021-03-15,Reverse - Aventino Group CC,48065,104594-1,1040103.0,0.0,0.0,0.0
+4571,62294,9,CB-CB,2020-12-17,Reverse - Khavhakone Construction Group (Pty) Ltd,48340,105095-1,1043325.73,0.0,0.0,0.0
+4576,58931,9,CB-CB,2020-12-11,Reverse - Barzani Development (Pty)Ltd,46718,102128-1,1093955.8,0.0,0.0,0.0
+4589,58929,9,CB-CB,2020-12-17,Reverse - Bageso Housing Development Consultants - LIMPOPO,46717,102126-1,1107230.01,0.0,0.0,0.0
+4596,59327,11,CB-CB,2021-02-01,Reverse - Re A Letamisa Trading and Projects,45212,99582-1,1123652.78,0.0,0.0,0.0
+4619,62239,8,CB-CB,2020-11-25,Reverse - Best Enough Trading & Projects 525 - (Northern Cap,48149,104757-1,1293082.19,0.0,0.0,0.0
+4621,54872,1,CB-CB,2020-04-03,Reverse - Mangaung Metro Municipality,44956,99191-1,1315802.0,0.0,0.0,0.0
+4623,58925,9,CB-CB,2020-12-11,Reverse - Barzani Development (Pty)Ltd,46715,102122-1,1338282.0,0.0,0.0,0.0
+4624,58927,9,CB-CB,2020-12-11,Reverse - Barzani Development (Pty)Ltd,46716,102124-1,1338282.0,0.0,0.0,0.0
+4629,56808,5,CB-CB,2020-08-26,Reverse - Barzani Development (Pty)Ltd,45422,99964-1,1411229.3,0.0,0.0,0.0
+4641,57703,7,CB-CB,2020-10-09,Reverse - Pamodia Projects,44724,98705-1,1552037.48,0.0,0.0,0.0
+4643,56197,4,CB-CB,2020-07-31,Reverse - V3 Consulting Engineers (Pty) Ltd,45345,99821-1,1559103.83,0.0,0.0,0.0
+4648,58923,9,CB-CB,2020-12-11,Reverse - Barzani Development (Pty)Ltd,46714,102120-1,1637555.84,0.0,0.0,0.0
+4657,58921,9,CB-CB,2020-12-11,Reverse - Barzani Development (Pty)Ltd,46713,102118-1,1682960.0,0.0,0.0,0.0
+4664,62098,10,CB-CB,2021-01-27,Reverse - Abram Puno Harvest JV,48031,104543-1,1709405.1,0.0,0.0,0.0
+4671,62313,10,CB-CB,2021-01-27,Reverse - Khavhakone Construction Group (Pty) Ltd,48399,105109-1,1812974.16,0.0,0.0,0.0
+4673,58919,9,CB-CB,2020-12-18,Reverse - Khavhakone Construction Group (Pty) Ltd,46712,102116-1,1812974.16,0.0,0.0,0.0
+4677,62292,9,CB-CB,2020-12-17,Reverse - Khavhakone Construction Group (Pty) Ltd,48336,105081-1,1812974.16,0.0,0.0,0.0
+4687,58917,9,CB-CB,2020-12-10,Reverse - Weird Industries CC,46711,102114-1,1902750.06,0.0,0.0,0.0
+4695,58915,9,CB-CB,2020-12-11,Reverse - Barzani Development (Pty)Ltd,46710,102112-1,1987079.06,0.0,0.0,0.0
+4711,58913,9,CB-CB,2020-12-11,Reverse - Barzani Development (Pty)Ltd,46709,102110-1,2368578.65,0.0,0.0,0.0
+4726,62330,11,CB-CB,2021-02-26,Reverse - Khavhakone Construction Group (Pty) Ltd,46856,102401-1,2579695.22,0.0,0.0,0.0
+4730,58909,9,CB-CB,2020-12-11,Reverse - Barzani Development (Pty)Ltd,46707,102106-1,2758489.16,0.0,0.0,0.0
+4742,59124,10,CB-CB,2021-01-28,Reverse - NJR Projects (Pty) Ltd,44791,98831-1,2861470.04,0.0,0.0,0.0
+4750,57417,6,CB-CB,2020-09-29,Reverse - Khavhakone Construction Group (Pty) Ltd,45521,100148-1,2953838.8,0.0,0.0,0.0
+4754,61582,8,CB-CB,2020-11-25,Reverse - Transfer,47429,103416-1,2979114.08,0.0,0.0,0.0
+4762,55650,3,CB-CB,2020-06-05,Reverse - Transfer to Absa NW,44984,99225-1,3000000.0,0.0,0.0,0.0
+4766,60693,3,CB-CB,2020-06-05,Reverse - Transfer,44987,99228-1,3000000.0,0.0,0.0,0.0
+4776,60363,5,CB-CB,2020-08-28,Reverse - Call deposit transfer,44994,99235-1,3000000.0,0.0,0.0,0.0
+4790,58907,9,CB-CB,2020-12-11,Reverse - Barzani Development (Pty)Ltd,46706,102104-1,3236564.13,0.0,0.0,0.0
+4811,59122,10,CB-CB,2021-01-28,Reverse - Seletje Construction and Management CC,44790,98829-1,3879590.55,0.0,0.0,0.0
+4843,60740,4,CB-CB,2020-07-31,Reverse - Transfer,44993,99234-1,5000000.0,0.0,0.0,0.0
+4845,61005,9,CB-CB,2020-12-01,Reverse - Transfer,45007,99248-1,5000000.0,0.0,0.0,0.0
+4847,61007,9,CB-CB,2020-12-15,Reverse - Transfer,45008,99249-1,5000000.0,0.0,0.0,0.0
+4850,59601,11,CB-CB,2021-02-02,Reverse - Transfer,47110,102874-1,5000000.0,0.0,0.0,0.0
+4853,59248,10,CB-CB,2021-01-28,Reverse - Tranfer,47442,103430-1,5000000.0,0.0,0.0,0.0
+4870,56069,4,CB-CB,2020-07-19,Reverse - Dipabala Projects and Civil/ Selby Construction JV,45216,99593-1,5513398.15,0.0,0.0,0.0
+4875,60734,4,CB-CB,2020-07-17,Reverse - Transfer,44990,99231-1,6000000.0,0.0,0.0,0.0
+4879,58360,8,CB-CB,2020-11-25,Reverse - NJR Projects (Pty) Ltd,45780,100618-1,6477560.43,0.0,0.0,0.0
+4927,60429,7,CB-CB,2020-10-23,Reverse - Transfer,44996,99237-1,8974288.32,0.0,0.0,0.0
+4944,59214,10,CB-CB,2021-01-20,Reverse - M Kona Consulting Engineering (Pty) Ltd,46701,102096-1,9725588.85,0.0,0.0,0.0
+4951,60736,4,CB-CB,2020-07-24,Reverse - Transfer,44991,99232-1,10000000.0,0.0,0.0,0.0
+4954,60950,8,CB-CB,2020-11-19,Reverse - Transfer,45004,99245-1,10000000.0,0.0,0.0,0.0
+4969,60132,12,CB-CB,2021-03-31,Reverse - Transfer,47191,103003-1,14948900.0,0.0,0.0,0.0
+4992,61676,10,CB-CB,2021-01-27,Reverse - Transfer,47217,103044-1,20000000.0,0.0,0.0,0.0
+5002,60887,7,CB-CB,2020-10-30,Reverse - Call deposit transfer,45001,99243-1,20000000.0,0.0,0.0,0.0
+5017,62074,10,CB-CB,2021-01-28,Reverse - Transfer,47226,103059-1,23000000.0,0.0,0.0,0.0
+5023,60239,1,CB-CB,2020-04-24,Reverse - Transfer,47715,103977-1,25000000.0,0.0,0.0,0.0
+5034,54864,1,CB-CB,2020-04-03,Reverse - Mafiki Kgwadi JV,44947,99182-1,31320646.0,0.0,0.0,0.0
+5062,61454,6,CB-CB,2020-09-30,Reverse - The Manager FSPG: Department of Human Settlements,47409,103384-1,52000142.0,0.0,0.0,0.0
+5075,60885,7,CB-CB,2020-10-27,Reverse - Transfer,45000,99242-1,70292020.65,0.0,0.0,0.0
+5089,57875,7,CB-CB,2020-10-29,Reverse - Transfer,45692,100448-1,91505544.0,0.0,0.0,0.0
+5093,60130,12,CB-CB,2021-03-31,Reverse - Transfer,47190,103002-1,94746172.0,0.0,0.0,0.0
